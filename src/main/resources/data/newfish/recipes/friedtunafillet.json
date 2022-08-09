@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "newfish:tunafillet"
+  },
+  "result": "newfish:friedtunafillet",
+  "experience": 1.0,
+  "cookingtime": 100
+}

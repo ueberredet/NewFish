@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "newfish:tunafillet"
+  },
+  "result": "newfish:smokedtunafillet",
+  "experience": 1.0,
+  "cookingtime": 200
+}

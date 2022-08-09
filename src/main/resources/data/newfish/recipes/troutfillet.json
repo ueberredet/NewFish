@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "newfish:filletknife"
+
+    },
+    {
+      "item": "newfish:trout"
+    }
+  ],
+  "result": {
+    "item": "newfish:troutfillet",
+    "count": 2
+  }
+}

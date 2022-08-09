@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "newfish:sturgeonfillet"
+  },
+  "result": "newfish:smokedsturgeonfillet",
+  "experience": 1.0,
+  "cookingtime": 200
+}

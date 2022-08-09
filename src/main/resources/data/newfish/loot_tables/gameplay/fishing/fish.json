@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:fishing",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "newfish:tuna",
+          "weight": 50
+        },
+        {
+         "type": "minecraft:item",
+          "name": "newfish:trout",
+          "weight": 50
+        },
+        {
+          "type": "minecraft:item",
+          "name": "newfish:bream",
+          "weight": 50
+        },
+        {
+          "type": "minecraft:item",
+          "name": "newfish:sturgeon",
+          "weight": 50
+        },
+        {
+          "type": "minecraft:item",
+          "name": "newfish:halibut",
+          "weight": 50
+        },
+        {
+          "type": "minecraft:item",
+          "name": "newfish:carp",
+          "weight": 50
+        }
+      ],
+      "rolls": 1
+    }
+  ]
+}

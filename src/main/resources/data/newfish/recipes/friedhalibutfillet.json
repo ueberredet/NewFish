@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "newfish:halibutfillet"
+  },
+  "result": "newfish:friedhalibutfillet",
+  "experience": 1.0,
+  "cookingtime": 100
+}

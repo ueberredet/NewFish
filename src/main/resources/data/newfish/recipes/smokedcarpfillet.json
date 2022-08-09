@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "newfish:carpfillet"
+  },
+  "result": "newfish:smokedcarpfillet",
+  "experience": 1.0,
+  "cookingtime": 200
+}

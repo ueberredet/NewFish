@@ -1,0 +1,32 @@
+{
+  "item.newfish.filletknife": "Fillet Knife",
+
+  "item.newfish.tuna": "Tuna",
+  "item.newfish.trout": "Trout",
+  "item.newfish.carp": "Carp",
+  "item.newfish.halibut": "Halibut",
+  "item.newfish.sturgeon": "Sturgeon",
+  "item.newfish.bream": "Bream",
+  "item.newfish.smokedcarpfillet": "Smoked Carp Fillet",
+  "item.newfish.smokedhalibutfillet": "Smoked Halibut Fillet",
+  "item.newfish.smokedsturgeonfillet": "Smoked Sturgeon Fillet",
+  "item.newfish.smokedbreamfillet": "Smoked Bream Fillet",
+  "item.newfish.smokedcodfillet": "Smoked Cod Fillet",
+  "item.newfish.smokedtroutfillet": "Smoked Trout Fillet",
+  "item.newfish.smokedtunafillet": "Smoked Tuna Fillet",
+  "item.newfish.friedcarpfillet": "Fried Carp Fillet",
+  "item.newfish.friedhalibutfillet": "Fried Halibut Fillet",
+  "item.newfish.friedsturgeonfillet": "Fried Sturgeon Fillet",
+  "item.newfish.friedbreamfillet": "Fried Bream Fillet",
+  "item.newfish.friedtunafillet": "Smoked Trout Fillet",
+  "item.newfish.friedtroutfillet": "Smoked Trout Fillet",
+  "item.newfish.carpfillet": "Carp Fillet",
+  "item.newfish.halibutfillet": "Halibut Fillet",
+  "item.newfish.sturgeonfillet": "Sturgeon Fillet",
+  "item.newfish.breamfillet": "Bream Fillet",
+  "item.newfish.codfillet": "Cod Fillet",
+  "item.newfish.troutfillet": "Trout Fillet",
+  "item.newfish.tunafillet": "Tuna Fillet",
+
+  "itemGroup.fishtab": "Fish"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "newfish:halibutfillet"
+  },
+  "result": "newfish:smokedhalibutfillet",
+  "experience": 1.0,
+  "cookingtime": 200
+}
